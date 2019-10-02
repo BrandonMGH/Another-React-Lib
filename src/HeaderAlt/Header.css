@@ -1,0 +1,40 @@
+.styleOne {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
+
+  .styleTwo {
+    padding: 30px;
+    text-align: center;
+    background: crimson;
+    color: white;
+    font-size: 30px;
+    margin: 25px; 
+  }
+
+  .styleThree {
+    text-align: center;
+    background: blue;
+    color: white;
+    font-size: 10px;
+    margin: 60px; 
+  }
+
+  .styleFour {
+    padding: 60px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 45px;
+  }
+
+  .styleFive {
+    padding: 60px;
+    text-align: center;
+    background: grey;
+    color: black;
+    font-size: 30px;
+  }
